@@ -10,7 +10,7 @@
     "@babel/preset-env": "^7.20.2",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "core-js": "^3.27.1",
+    "core-js": "^3.28.0",
     "husky": "^8.0.3",
     "segmentit": "^2.0.3"
   },
