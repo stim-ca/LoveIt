@@ -7,7 +7,7 @@
     "@algolia/cli": "^4.0.8",
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
-    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-env": "^7.21.4",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "core-js": "^3.27.1",
